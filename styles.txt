@@ -1,0 +1,23 @@
+Front-end Style Guide
+
+Layout
+
+The designs were created to the follwing widths:
+- Mobile: 375px
+- Desktop: 1440px
+
+Color
+#b6bde0;
+#4852A3;
+#ffff;
+#e1e4f3;
+#FF0000;
+#F4902A;
+
+Body Font 
+font-size: 24px;
+font-weight:400, 500, 700;
+font-family: "Space Mono", monospace;
+             ("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap")
+
+
